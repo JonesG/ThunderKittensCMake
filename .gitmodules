@@ -1,0 +1,3 @@
+[submodule "modules/ThunderKittens"]
+	path = modules/ThunderKittens
+	url = https://github.com/HazyResearch/ThunderKittens.git
